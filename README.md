@@ -18,6 +18,14 @@ Nuestra principal misión es ayudar a nuestros clientes para que extraigan el va
 <div align="justify">
 
 
+## 🔹CONTEXTO:
+En esta ocasión, hemos sido seleccionados por CulinaryCrossRoads, una empresa que gestiona varios establecimientos gastronómicos en el estado de Indiana. Su objetivo es expandir su presencia a otros estados, y nos han confiado el análisis del mercado estadounidense actual. Nuestra tarea principal consiste en proporcionar información valiosa basada en un análisis profundo de datos para respaldar decisiones estratégicas que minimicen los riesgos y maximicen las oportunidades de crecimiento para la empresa.
+
+Los **`objetivos`** específicos a alcanzar son los siguientes:
+
+Identificar oportunidades para nuevos negocios: Utilizando un análisis exhaustivo del mercado, evaluando tendencias y preferencias, y considerando datos poblacionales para identificar áreas estratégicas de crecimiento.
+Analizar datos de usuarios para sistemas de recomendación: Aplicando técnicas de procesamiento de lenguaje natural y segmentación de usuarios para desarrollar sistemas de recomendación personalizados.
+Implementar modelos de aprendizaje automático: A través del preprocesamiento de datos, selección de variables relevantes y desarrollo de modelos predictivos evaluaremos el éxito potencial de nuevos negocios.
 
 ## 😎 EQUIPO
 
