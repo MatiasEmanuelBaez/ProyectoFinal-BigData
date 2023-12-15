@@ -16,15 +16,45 @@ Nuestra principal misión es ayudar a nuestros clientes para que extraigan el va
 </div>
 <div align="justify">
 
-## EQUIPO
+
+
+## 😎 EQUIPO
+
+<div style="text-align: center;">
+<table align="center">
+<tr>
+<td> <img src="Imagenes/Edith.jpg" width="100" height="100" align="center" /> </td>
+<td> <img src="Imagenes/Leandro.jpg" width="100" height="100" /> </td>
+<td> <img src="Imagenes/Matias.png" width="100" height="100" /> </td>
+<td> <img src="Imagenes/Nicolas.jpg" width="100" height="100" /> </td>
+<td> <img src="Imagenes/Tinmar.jpg" width="100" height="100" /> </td>
+</tr>
+</table>
+
+<table align="center">
+<tr> <td> 
+
+- Edith Cuellar Bocanegra </td> <td> [LinkedIn](https://www.linkedin.com/in/edith-cuellar-84521226/)  👈👀 </td></tr>
+<tr> <td> 
+  
+- Leandro Martín Ibarra </td> <td> [LinkedIn](https://www.linkedin.com/in/leandro-ibarra-691030270/)  👈👀</td></tr>
+<tr> <td> 
+
+- Matias Emanuel Baez </td> <td> [LinkedIn](https://www.linkedin.com/in/matias-emanuel-baez/)  👈👀</td></tr>
+<tr> <td> 
+
+- Nicolas Agustín Ibarra </td> <td> [LinkedIn](https://www.linkedin.com/in/nicovid-ibarra/)  👈👀</td></tr>
+<tr> <td> 
+
+- Tinmar Armando Andrade Banda </td> <td> [LinkedIn](https://www.linkedin.com/in/tinmar-data-engineer/)  👈👀</td></tr>
+
+</table>
+</div>
 
 
 
 
-
-
-
-## TECNOLOGÍAS UTILIZADAS
+## 💻 TECNOLOGÍAS UTILIZADAS
 
 En este proyecto específico, hemos decidido emplear las siguientes tecnologías y herramientas que nos permitirán realizar análisis exhaustivos, implementar modelos de aprendizaje automático y presentar resultados de manera accesible.
 
