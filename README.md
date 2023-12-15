@@ -2,10 +2,11 @@
 <h1>
 PROYECTO FINAL DPT-04
 </br>
-YELP & GOOGLE MAPS
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png"  height="25"> YELP & GOOGLE MAPS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="30">
 </h1>
 
-![Logo-sinergia-global](Imagenes/SG-logo.png)
+![Logo-sinergia-global](Imagenes/SG-logo.png) 
 
 
 En el contexto de este proyecto, nos identificamos como parte integral de una consultora especializada en el análisis de datos y estrategias empresariales. Nuestro enfoque se centra en la exploración profunda de información, fusionando el análisis de datos con la comprensión del negocio. Este enfoque combinado nos permite fijar metas realistas y alcanzar los objetivos acordados de manera efectiva.
@@ -71,6 +72,15 @@ En este proyecto específico, hemos decidido emplear las siguientes tecnologías
 + **Google BigQuery**: como una solución de almacenamiento y análisis de datos a gran escala.
 + **Databricks**: como plataforma unificada para el procesamiento y análisis de datos a gran escala, facilitando la colaboración y ejecución de proyectos de datos complejos.
 + **Power BI**: como herramienta de visualización de datos para presentar información de manera intuitiva y comprensible.
+
+<p align="center">
+  <img width="500" height="500" src="https://github.com/Tinmarian/Proyecto-Final-HENRY-Big-Data/assets/126922100/1105ed2d-ec28-4fef-8cb2-bf622e6f1061"
+</p>
+
+
+
+
+##  ♾️ ARQUITECTURA
 
 ![Arquitectura-utilizada](Imagenes/Arquitectura.png)
 
