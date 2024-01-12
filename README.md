@@ -6,7 +6,7 @@ PROYECTO FINAL DPT-04
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png"  height="25"> YELP & GOOGLE MAPS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="30">
 </h1>
 
-![Logo-sinergia-global](Imagenes/SG-logo.png) 
+![Logo-sinergia-global](Imagenes/SG-logo.png)
 
 
 En el contexto de este proyecto, nos identificamos como parte integral de una consultora especializada en el análisis de datos y estrategias empresariales. Nuestro enfoque se centra en la exploración profunda de información, fusionando el análisis de datos con la comprensión del negocio. Este enfoque combinado nos permite fijar metas realistas y alcanzar los objetivos acordados de manera efectiva.
