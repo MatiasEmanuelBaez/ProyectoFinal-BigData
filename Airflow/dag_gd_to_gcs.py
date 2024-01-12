@@ -14,15 +14,15 @@ from google.oauth2 import service_account
 #         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
 
-GCPCONN = "google_cloud_henry"
-MY_BUCKET_NAME = 'data-lake-henry'
-HENRY_PROJECT = 'fiery-protocol-399500'
+GCPCONN = "Henry_pt04"
+MY_BUCKET_NAME = 'data-lake-henry-pt04'
+HENRY_PROJECT = 'sharp-footing-407719'
 
 default_args = {
 		'owner':'Tinmar Andrade',
-		'start_date':datetime(2023,9,20),
-		'email':['tinmar96@gmail.com','jozz.rom@gmail.com'],
-		'email_on_failure':True,
+		'start_date':datetime(2024,1,11),
+		'email':['tinmar96@gmail.com'],
+		'email_on_failure':False,
 	}
 
 @dag(
@@ -30,7 +30,7 @@ default_args = {
 	default_args=default_args,
 	catchup=False,
 	schedule=None,
-	tags=['HENRY','Proyecto Final','Proyecto en Equipo']
+	tags=['HENRY','Proyecto Final','Proyecto en Equipo','pt04']
 	)
 
 def gd_to_gcs():
@@ -56,7 +56,7 @@ def gd_to_gcs():
 		group_id="yelp_load"
 	)
 	def tg1():
-		MY_FOLDER_ID = '1IcC0SiBY2UeyRUn7gcs2PfIhwptvDRdk' # Folder de Yelp
+		MY_FOLDER_ID = '1u1QMMUt3HI5bnvUKOhm7phJSxX79Udi4' # Folder de Yelp
 		for MY_FILE_NAME in ['user.parquet','tip.json','review.json','business.pkl','checkin.json']:
 			extract_load_yelp = GoogleDriveToGCSOperator(
 				task_id = f'extract_load_yelp_{MY_FILE_NAME}',
@@ -93,7 +93,7 @@ def gd_to_gcs():
 	OBJECT_NAME,MY_FOLDER_ID = ['review-Florida','review-California','review-Georgia'],['1WfWLSdAgpsocrfntvxBdYXeMefE2EF8W','1xS0u_ZUwBZJ1orOVwCvf_eJVKti9PfbJ','1HNccKdZZ8GHxXtVtb6kmR_tchSW1M9zC']
 
 	@task_group(
-		group_id="maps_ny_load"
+		group_id="maps_fl_load"
 	)
 	def tg3():
 		for MY_FILE_NAME in range(1,19):
@@ -126,39 +126,39 @@ def gd_to_gcs():
 				execution_timeout=timedelta(seconds=60*45)
 			)
 
-	@task_group(
-		group_id="maps_tx_load"
-	)
-	def tg5():
-		for MY_FILE_NAME in range(1,17):
-			extract_load_maps_texas = GoogleDriveToGCSOperator(
-				task_id = f'extract_load_maps_texas_{MY_FILE_NAME}',
-				retries = 5,
-				bucket_name=MY_BUCKET_NAME,
-				object_name=f'{OBJECT_NAME[2][7:]}_{MY_FILE_NAME}.json',
-				file_name=f'{MY_FILE_NAME}.json',
-				folder_id=MY_FOLDER_ID[2],
-				gcp_conn_id=GCPCONN,
-				trigger_rule='all_done',
-				execution_timeout=timedelta(seconds=60*45)
-				)
+	# @task_group(
+	# 	group_id="maps_tx_load"
+	# )
+	# def tg5():
+	# 	for MY_FILE_NAME in range(1,17):
+	# 		extract_load_maps_texas = GoogleDriveToGCSOperator(
+	# 			task_id = f'extract_load_maps_texas_{MY_FILE_NAME}',
+	# 			retries = 5,
+	# 			bucket_name=MY_BUCKET_NAME,
+	# 			object_name=f'{OBJECT_NAME[2][7:]}_{MY_FILE_NAME}.json',
+	# 			file_name=f'{MY_FILE_NAME}.json',
+	# 			folder_id=MY_FOLDER_ID[2],
+	# 			gcp_conn_id=GCPCONN,
+	# 			trigger_rule='all_done',
+	# 			execution_timeout=timedelta(seconds=60*45)
+	# 			)
 
-	@task_group(
-		group_id="maps_co_load"
-	)
-	def tg6():
-		for MY_FILE_NAME in range(1,17):
-			extract_load_maps_colorado = GoogleDriveToGCSOperator(
-				task_id = f'extract_load_maps_colorado_{MY_FILE_NAME}',
-				retries = 5,
-				bucket_name=MY_BUCKET_NAME,
-				object_name=f'{OBJECT_NAME[3][7:]}_{MY_FILE_NAME}.json',
-				file_name=f'{MY_FILE_NAME}.json',
-				folder_id=MY_FOLDER_ID[3],
-				gcp_conn_id=GCPCONN,
-				trigger_rule='all_done',
-				execution_timeout=timedelta(seconds=60*45)
-			)
+	# @task_group(
+	# 	group_id="maps_co_load"
+	# )
+	# def tg6():
+	# 	for MY_FILE_NAME in range(1,17):
+	# 		extract_load_maps_colorado = GoogleDriveToGCSOperator(
+	# 			task_id = f'extract_load_maps_colorado_{MY_FILE_NAME}',
+	# 			retries = 5,
+	# 			bucket_name=MY_BUCKET_NAME,
+	# 			object_name=f'{OBJECT_NAME[3][7:]}_{MY_FILE_NAME}.json',
+	# 			file_name=f'{MY_FILE_NAME}.json',
+	# 			folder_id=MY_FOLDER_ID[3],
+	# 			gcp_conn_id=GCPCONN,
+	# 			trigger_rule='all_done',
+	# 			execution_timeout=timedelta(seconds=60*45)
+	# 		)
 
 	@task_group(
 		group_id="maps_ge_load"
@@ -169,7 +169,7 @@ def gd_to_gcs():
 				task_id = f'extract_load_maps_georgia_{MY_FILE_NAME}',
 				retries = 5,
 				bucket_name=MY_BUCKET_NAME,
-				object_name=f'{OBJECT_NAME[4][7:]}_{MY_FILE_NAME}.json',
+				object_name=f'{OBJECT_NAME[2][7:]}_{MY_FILE_NAME}.json',
 				file_name=f'{MY_FILE_NAME}.json',
 				folder_id=MY_FOLDER_ID[4],
 				gcp_conn_id=GCPCONN,
@@ -177,6 +177,6 @@ def gd_to_gcs():
 				execution_timeout=timedelta(seconds=60*45)
 			)
 
-	delete_bucket >> create_bucket >> tg1() >> tg2() >> tg3() >> tg4() >> tg5() >> tg6() >> tg7()
+	delete_bucket >> create_bucket >> tg1() >> tg2() >> tg3() >> tg4() >> tg7()
 
 dag = gd_to_gcs()
