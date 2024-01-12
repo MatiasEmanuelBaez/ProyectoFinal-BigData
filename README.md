@@ -92,4 +92,18 @@ En este proyecto específico, hemos decidido emplear las siguientes tecnologías
 
 ![Arquitectura-utilizada](Imagenes/Arquitectura.png)
 
+## 📋DIAGRAMA DE ENTIDAD DE RELACIONES
+
+Este diagrama consta de dos tablas de hechos principales, denominadas 'consejos' y 'reviews', junto con otras nueve tablas de dimensiones que proporcionan contextos detallados y enriquecen la comprensión de los datos.
+En el proceso de diseño, hemos incorporado identificación de entidades, atributos y relaciones, proporcionando una representación completa de la estructura de datos.
+Además, hemos especificado las claves primarias (PK) para cada tabla, asegurando la unicidad y la identificación única de cada registro. También hemos definido claves foráneas (FK) para establecer relaciones coherentes entre las tablas, permitiendo referencias cruzadas.
+
+En esta oportunidad elegimos un modelo de diagrma llamado StarFLake:
+
+Es un esquema de copo de estrella, combina elementos de esquemas de estrella y copo de nieve. Adopta la desnormalización de jerarquías dimensionales de los esquemas de estrella y la normalización de dimensiones compartidas mediante estabilizadores, aprovechando así los beneficios de ambos en términos de eficiencia y redundancia reducida.
+
+
+![Captura de pantalla 2024-01-12 180017](https://github.com/Tinmarian/Proyecto-Final-HENRY-Big-Data/assets/126922100/48b5b91d-aa57-43e2-8751-c01a7fbcd483)
+
+
 
