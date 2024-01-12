@@ -8,7 +8,7 @@ from airflow.providers.google.cloud.operators.gcs import GCSCreateBucketOperator
 from google.oauth2 import service_account
 
 # SCOPES = ['https://www.googleapis.com/auth/drive.readonly','https://www.googleapis.com/auth/devstorage.full_control','https://www.googleapis.com/auth/drive']
-# SERVICE_ACCOUNT_FILE = '/c/Users/tinma/OneDrive/Escritorio/HENRY/Proyecto_Grupal_HENRY/credentials/fiery-protocol-399500-f2566dd92ef4.json'
+# SERVICE_ACCOUNT_FILE = '/c/Users/tinma/OneDrive/Escritorio/HENRY/PT04/sharp-footing-407719-f090bd332466.json'
 
 # credentials = service_account.Credentials.from_service_account_file(
 #         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
@@ -57,7 +57,7 @@ def gd_to_gcs():
 	)
 	def tg1():
 		MY_FOLDER_ID = '1IcC0SiBY2UeyRUn7gcs2PfIhwptvDRdk' # Folder de Yelp
-		for MY_FILE_NAME in ['user.parquet','tip.json','review.json','business.pkl']: # ,'checkin.json']:
+		for MY_FILE_NAME in ['user.parquet','tip.json','review.json','business.pkl','checkin.json']:
 			extract_load_yelp = GoogleDriveToGCSOperator(
 				task_id = f'extract_load_yelp_{MY_FILE_NAME}',
 				retries = 5,
