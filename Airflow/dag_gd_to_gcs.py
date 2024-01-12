@@ -26,7 +26,7 @@ default_args = {
 	}
 
 @dag(
-	'gd_to_gcs',
+	'gd_to_gcs_pt04',
 	default_args=default_args,
 	catchup=False,
 	schedule=None,
@@ -75,13 +75,13 @@ def gd_to_gcs():
 		group_id="maps_meta_load"
 	)
 	def tg2():
-		MY_FOLDER_ID = '1FrOLWoLdPDyi1h7BKT5z-LSGjuMxIyKb'
+		MY_FOLDER_ID = '1rGyDjWvzrC3TNb7LY6YW278PeWILcjAT'
 		for MY_FILE_NAME in range(1,12):
 			extract_load_maps_meta = GoogleDriveToGCSOperator(
 				task_id = f'extract_load_maps_meta_{MY_FILE_NAME}',
 				retries = 5,
 				bucket_name=MY_BUCKET_NAME,
-				object_name=f'metadata_{MY_FILE_NAME}.json',
+				object_name=f'google_metadata_{MY_FILE_NAME}.json',
 				file_name=f'{MY_FILE_NAME}.json',
 				folder_id=MY_FOLDER_ID,
 				gcp_conn_id=GCPCONN,
@@ -90,7 +90,7 @@ def gd_to_gcs():
 			)
 
 	# Cargar datos de Maps Estados
-	OBJECT_NAME,MY_FOLDER_ID = ['review-New_York','review-California','review-Texas','review-Colorado','review-Georgia'],['1fNf7hKTn9W3XVtbeKN_w7G_eVVviFCR0','1ikEacrw5YaD3_yZQK7OOArN1VjGXJOhh','1u-q7_KBPQlKuICsjorm0nQR8CRhkImKc','13FmmDFGjcMacTm9bLEeq9yO7BESLprIK','1bB7j6_ojiSZSm7WYZ2Sue67qrShQNMit']
+	OBJECT_NAME,MY_FOLDER_ID = ['review-Florida','review-California','review-Georgia'],['1WfWLSdAgpsocrfntvxBdYXeMefE2EF8W','1xS0u_ZUwBZJ1orOVwCvf_eJVKti9PfbJ','1HNccKdZZ8GHxXtVtb6kmR_tchSW1M9zC']
 
 	@task_group(
 		group_id="maps_ny_load"
