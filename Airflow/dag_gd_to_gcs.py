@@ -171,7 +171,7 @@ def gd_to_gcs():
 				bucket_name=MY_BUCKET_NAME,
 				object_name=f'{OBJECT_NAME[2][7:]}_{MY_FILE_NAME}.json',
 				file_name=f'{MY_FILE_NAME}.json',
-				folder_id=MY_FOLDER_ID[4],
+				folder_id=MY_FOLDER_ID[2],
 				gcp_conn_id=GCPCONN,
 				trigger_rule='all_done',
 				execution_timeout=timedelta(seconds=60*45)
