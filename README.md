@@ -18,49 +18,15 @@ Nuestra principal misión es ayudar a nuestros clientes para que extraigan el va
 <div align="justify">
 
 
-## 🔹CONTEXTO:
+## 📄 CONTEXTO:
 En esta ocasión, hemos sido seleccionados por CulinaryCrossRoads, una empresa que gestiona varios establecimientos gastronómicos en el estado de Indiana. Su objetivo es expandir su presencia a otros estados, y nos han confiado el análisis del mercado estadounidense actual. Nuestra tarea principal consiste en proporcionar información valiosa basada en un análisis profundo de datos para respaldar decisiones estratégicas que minimicen los riesgos y maximicen las oportunidades de crecimiento para la empresa.
 
 Los **`objetivos`** específicos a alcanzar son los siguientes:
 
-Identificar oportunidades para nuevos negocios: Utilizando un análisis exhaustivo del mercado, evaluando tendencias y preferencias, y considerando datos poblacionales para identificar áreas estratégicas de crecimiento.
-Analizar datos de usuarios para sistemas de recomendación: Aplicando técnicas de procesamiento de lenguaje natural y segmentación de usuarios para desarrollar sistemas de recomendación personalizados.
+- Identificar oportunidades para nuevos negocios: Utilizando un análisis exhaustivo del mercado, evaluando tendencias y preferencias, y considerando datos poblacionales para identificar áreas estratégicas de crecimiento.
+
+- Analizar datos de usuarios para sistemas de recomendación: Aplicando técnicas de procesamiento de lenguaje natural y segmentación de usuarios para desarrollar sistemas de recomendación personalizados.
 Implementar modelos de aprendizaje automático: A través del preprocesamiento de datos, selección de variables relevantes y desarrollo de modelos predictivos evaluaremos el éxito potencial de nuevos negocios.
-
-## 😎 EQUIPO
-
-<div style="text-align: center;">
-<table align="center">
-<tr>
-<td> <img src="Imagenes/Edith.jpg" width="100" height="100" align="center" /> </td>
-<td> <img src="Imagenes/Leandro.jpg" width="100" height="100" /> </td>
-<td> <img src="Imagenes/Matias.png" width="100" height="100" /> </td>
-<td> <img src="Imagenes/Nicolas.jpg" width="100" height="100" /> </td>
-<td> <img src="Imagenes/Tinmar.jpg" width="100" height="100" /> </td>
-</tr>
-</table>
-
-<table align="center">
-<tr> <td> 
-
-- Edith Cuellar Bocanegra </td> <td> [LinkedIn](https://www.linkedin.com/in/edith-cuellar-84521226/)  👈👀 </td></tr>
-<tr> <td> 
-  
-- Leandro Martín Ibarra </td> <td> [LinkedIn](https://www.linkedin.com/in/leandro-ibarra-691030270/)  👈👀</td></tr>
-<tr> <td> 
-
-- Matias Emanuel Baez </td> <td> [LinkedIn](https://www.linkedin.com/in/matias-emanuel-baez/)  👈👀</td></tr>
-<tr> <td> 
-
-- Nicolas Agustín Ibarra </td> <td> [LinkedIn](https://www.linkedin.com/in/nicovid-ibarra/)  👈👀</td></tr>
-<tr> <td> 
-
-- Tinmar Armando Andrade Banda </td> <td> [LinkedIn](https://www.linkedin.com/in/tinmar-data-engineer/)  👈👀</td></tr>
-
-</table>
-</div>
-
-
 
 
 ## 💻 TECNOLOGÍAS UTILIZADAS
@@ -79,20 +45,34 @@ En este proyecto específico, hemos decidido emplear las siguientes tecnologías
 + **Google Cloud Storage**: para el almacenamiento seguro y escalable de datos en la nube.
 + **Google BigQuery**: como una solución de almacenamiento y análisis de datos a gran escala.
 + **Databricks**: como plataforma unificada para el procesamiento y análisis de datos a gran escala, facilitando la colaboración y ejecución de proyectos de datos complejos.
-+ **Power BI**: como herramienta de visualización de datos para presentar información de manera intuitiva y comprensible.
++ **Tableau**: como herramienta de visualización de datos para presentar información de manera intuitiva y comprensible.
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/Tinmarian/Proyecto-Final-HENRY-Big-Data/assets/126922100/1105ed2d-ec28-4fef-8cb2-bf622e6f1061"
+
+![Arquitectura-utilizada](Imagenes/tecnologias.png)
 </p>
 
 
+## 🏛️ ARQUITECTURA
+
+Comenzamos con un tratamiento inicial de los datos, detallado en los notebooks, una fase crucial para asegurar que los datos estén limpios, bien organizados y listos para su análisis. Este paso es esencial, ya que permite identificar las características más relevantes para los objetivos del proyecto. 
+
+Simplificar el pipeline al centrarse en datos clave mejora la eficiencia y evita la inclusión de información redundante.
 
 
-##  ♾️ ARQUITECTURA
+
+
+
+Luego, para la creación del pipeline, se diseñó la arquitectura de Big Data respaldada por la tecnología de Google Cloud Platform. Esto incluye la organización de datos en Cloud Storage, la automatización de tareas mediante Cloud Functions y la explotación de datos a través de BigQuery, Tableau y aplicaciones de Machine Learning. Esta estrategia proporciona una base sólida y escalable para gestionar y analizar los extensos conjuntos de datos de Yelp y Google Business.
+
+<p align="center">
+
+![Pipeline](Imagenes/pipeline.png)
 
 ![Arquitectura-utilizada](Imagenes/Arquitectura.png)
+</p>
 
-## 📋DIAGRAMA DE ENTIDAD DE RELACIONES
+## 📋BASE DE DATOS - DER
 
 Este diagrama consta de dos tablas de hechos principales, denominadas 'consejos' y 'reviews', junto con otras nueve tablas de dimensiones que proporcionan contextos detallados y enriquecen la comprensión de los datos.
 En el proceso de diseño, hemos incorporado identificación de entidades, atributos y relaciones, proporcionando una representación completa de la estructura de datos.
@@ -102,8 +82,41 @@ En esta oportunidad elegimos un modelo de diagrma llamado StarFLake:
 
 Es un esquema de copo de estrella, combina elementos de esquemas de estrella y copo de nieve. Adopta la desnormalización de jerarquías dimensionales de los esquemas de estrella y la normalización de dimensiones compartidas mediante estabilizadores, aprovechando así los beneficios de ambos en términos de eficiencia y redundancia reducida.
 
+<p align="center">
 
-![Captura de pantalla 2024-01-12 180017](https://github.com/Tinmarian/Proyecto-Final-HENRY-Big-Data/assets/126922100/48b5b91d-aa57-43e2-8751-c01a7fbcd483)
+![Diegrama-entidad-relacion](Imagenes\der.png)
+</p>
 
 
+## 🛠️ EL EQUIPO
 
+<div style="text-align: center;">
+<table align="center">
+<tr>
+<td> <img src="Imagenes/Edith.jpg" width="100" height="100" align="center" /> </td>
+<td> <img src="Imagenes/Leandro.jpg" width="100" height="100" /> </td>
+<td> <img src="Imagenes/Matias.png" width="100" height="100" /> </td>
+<!-- <td> <img src="Imagenes/Nicolas.jpg" width="100" height="100" /> </td> -->
+<td> <img src="Imagenes/Tinmar.jpg" width="100" height="100" /> </td>
+</tr>
+</table>
+
+<table align="center">
+<tr> <td> 
+
+- Edith Cuellar Bocanegra </td> <td> [LinkedIn](https://www.linkedin.com/in/edith-cuellar-84521226/)  👈👀 </td></tr>
+<tr> <td> 
+  
+- Leandro Martín Ibarra </td> <td> [LinkedIn](https://www.linkedin.com/in/leandro-ibarra-691030270/)  👈👀</td></tr>
+<tr> <td> 
+
+- Matias Emanuel Baez </td> <td> [LinkedIn](https://www.linkedin.com/in/matias-emanuel-baez/)  👈👀</td></tr>
+<tr> <td> 
+
+<!--- Nicolas Agustín Ibarra </td> <td> [LinkedIn](https://www.linkedin.com/in/nicovid-ibarra/)  👈👀</td></tr>
+<tr> <td> -->
+
+- Tinmar Armando Andrade Banda </td> <td> [LinkedIn](https://www.linkedin.com/in/tinmar-data-engineer/)  👈👀</td></tr>
+
+</table>
+</div>
