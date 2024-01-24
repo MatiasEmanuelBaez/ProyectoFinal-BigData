@@ -84,7 +84,9 @@ Es un esquema de copo de estrella, combina elementos de esquemas de estrella y c
 
 <p align="center">
 
-![Diegrama-entidad-relacion](Imagenes\der.png)
+![image](https://github.com/Tinmarian/Proyecto-Final-HENRY-Big-Data/assets/126922100/58ee0412-add1-4aa9-8e8c-55d5a5822358)
+
+
 </p>
 
 
