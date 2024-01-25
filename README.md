@@ -6,7 +6,8 @@ PROYECTO FINAL DPT-04
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png"  height="25"> YELP & GOOGLE MAPS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="30">
 </h1>
 
-![Logo-sinergia-global](Imagenes/SG-logo.png)
+
+<img src="Imagenes/SG-logo.png" width="600" />
 
 
 En el contexto de este proyecto, nos identificamos como parte integral de una consultora especializada en el análisis de datos y estrategias empresariales. Nuestro enfoque se centra en la exploración profunda de información, fusionando el análisis de datos con la comprensión del negocio. Este enfoque combinado nos permite fijar metas realistas y alcanzar los objetivos acordados de manera efectiva.
@@ -26,8 +27,7 @@ Los **`objetivos`** específicos a alcanzar son los siguientes:
 - Identificar oportunidades para nuevos negocios: Utilizando un análisis exhaustivo del mercado, evaluando tendencias y preferencias, y considerando datos poblacionales para identificar áreas estratégicas de crecimiento.
 
 - Analizar datos de usuarios para sistemas de recomendación: Aplicando técnicas de procesamiento de lenguaje natural y segmentación de usuarios para desarrollar sistemas de recomendación personalizados.
-Implementar modelos de aprendizaje automático: A través del preprocesamiento de datos, selección de variables relevantes y desarrollo de modelos predictivos evaluaremos el éxito potencial de nuevos negocios.
-
+  
 
 ## 💻 TECNOLOGÍAS UTILIZADAS
 
@@ -38,18 +38,17 @@ En este proyecto específico, hemos decidido emplear las siguientes tecnologías
 
 + **Python**: como lenguaje de programación principal para el desarrollo y la manipulación de datos.
 + **Pandas y NumPy**: para el análisis y procesamiento eficiente de datos estructurados y numéricos.
-+ **Scikit-learn**: una biblioteca de aprendizaje automático en Python que proporciona herramientas para diversos algoritmos y técnicas.
-+ **Keras y TensorFlow**: para el desarrollo y entrenamiento de modelos de aprendizaje profundo.
++ **Scikit-learn y Scipy**: bibliotecas de aprendizaje automático en Python que proporciona herramientas para diversos algoritmos y técnicas.
 
 + **Apache Airflow**: para la automatización y gestión de flujos de trabajo, permitiendo una programación eficiente de tareas y procesos.
 + **Google Cloud Storage**: para el almacenamiento seguro y escalable de datos en la nube.
 + **Google BigQuery**: como una solución de almacenamiento y análisis de datos a gran escala.
 + **Databricks**: como plataforma unificada para el procesamiento y análisis de datos a gran escala, facilitando la colaboración y ejecución de proyectos de datos complejos.
++ 
 + **Tableau**: como herramienta de visualización de datos para presentar información de manera intuitiva y comprensible.
 
 <p align="center">
-
-![Arquitectura-utilizada](Imagenes/tecnologias.png)
+<img src="Imagenes/tecnologias.png"/>
 </p>
 
 
@@ -59,20 +58,18 @@ Comenzamos con un tratamiento inicial de los datos, detallado en los notebooks, 
 
 Simplificar el pipeline al centrarse en datos clave mejora la eficiencia y evita la inclusión de información redundante.
 
-
-
+<p align="center">
+<img src="Imagenes/pipeline.png" width="500"/>
+</p>
 
 
 Luego, para la creación del pipeline, se diseñó la arquitectura de Big Data respaldada por la tecnología de Google Cloud Platform. Esto incluye la organización de datos en Cloud Storage, la automatización de tareas mediante Cloud Functions y la explotación de datos a través de BigQuery, Tableau y aplicaciones de Machine Learning. Esta estrategia proporciona una base sólida y escalable para gestionar y analizar los extensos conjuntos de datos de Yelp y Google Business.
 
 <p align="center">
-
-![Pipeline](Imagenes/pipeline.png)
-
-![Arquitectura-utilizada](Imagenes/Arquitectura.png)
+<img src="Imagenes/Arquitectura.png" width="800" />
 </p>
 
-## 📋BASE DE DATOS - DER
+## 📋 BASE DE DATOS - DER
 
 Este diagrama consta de dos tablas de hechos principales, denominadas 'consejos' y 'reviews', junto con otras nueve tablas de dimensiones que proporcionan contextos detallados y enriquecen la comprensión de los datos.
 En el proceso de diseño, hemos incorporado identificación de entidades, atributos y relaciones, proporcionando una representación completa de la estructura de datos.
@@ -83,10 +80,8 @@ En esta oportunidad elegimos un modelo de diagrma llamado StarFLake:
 Es un esquema de copo de estrella, combina elementos de esquemas de estrella y copo de nieve. Adopta la desnormalización de jerarquías dimensionales de los esquemas de estrella y la normalización de dimensiones compartidas mediante estabilizadores, aprovechando así los beneficios de ambos en términos de eficiencia y redundancia reducida.
 
 <p align="center">
-
-![Diegrama-entidad-relacion](Imagenes\der.png)
+<img src="Imagenes/der.png" width="750" />
 </p>
-
 
 ## 🛠️ EL EQUIPO
 
@@ -120,3 +115,8 @@ Es un esquema de copo de estrella, combina elementos de esquemas de estrella y c
 
 </table>
 </div>
+
+
+## 👀 Disclaimer  
+De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
+ No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
