@@ -1,0 +1,1482 @@
+,id_categoria,categoria
+0,0,restaurant
+1,1,buffet restaurant
+2,2,bakery
+3,3,deli
+4,4,gift basket store
+5,5,liquor store
+6,6,coffee shop
+7,7,bubble tea store
+8,8,cafe
+9,9,modern french restaurant
+10,10,grocery store
+11,11,gas station
+12,12,atm
+13,13,convenience store
+14,14,bar
+15,15,beer store
+16,16,sandwich shop
+17,17,ham shop
+18,18,soft drinks shop
+19,19,mexican restaurant
+20,20,gift shop
+21,21,wine store
+22,22,winery
+23,23,american restaurant
+24,24,caterer
+25,25,fast food restaurant
+26,26,takeout restaurant
+27,27,indian restaurant
+28,28,health and beauty shop
+29,29,facial spa
+30,30,juice shop
+31,31,medical spa
+32,32,cafeteria
+33,33,cake shop
+34,34,cupcake shop
+35,35,kosher grocery store
+36,36,kosher restaurant
+37,37,pastry shop
+38,38,pizza restaurant
+39,39,wedding bakery
+40,40,bar  grill
+41,41,sports bar
+42,42,seafood restaurant
+43,43,cajun restaurant
+44,44,chicken wings restaurant
+45,45,steak house
+46,46,cookie shop
+47,47,dessert shop
+48,48,ice cream shop
+49,49,diesel fuel supplier
+50,50,fuel pump
+51,51,puerto rican restaurant
+52,52,nuevo latino restaurant
+53,53,health food restaurant
+54,54,delivery restaurant
+55,55,cuban restaurant
+56,56,breakfast restaurant
+57,57,dinner theater
+58,58,wine bar
+59,59,colombian restaurant
+60,60,hamburger restaurant
+61,61,asian restaurant
+62,62,chinese restaurant
+63,63,ramen restaurant
+64,64,supermarket
+65,65,florist
+66,66,seafood market
+67,67,tourist attraction
+68,68,parking garage
+69,69,shopping mall
+70,70,theme park
+71,71,italian restaurant
+72,72,fine dining restaurant
+73,74,mediterranean restaurant
+74,75,pizza delivery
+75,76,pizza takeout
+76,77,peruvian restaurant
+77,78,cell phone store
+78,79,check cashing service
+79,80,money order service
+80,81,money transfer service
+81,82,chocolate shop
+82,83,health food store
+83,84,association or organization
+84,85,sushi restaurant
+85,86,salad shop
+86,87,tea house
+87,88,boutique
+88,89,wholesale bakery
+89,90,family restaurant
+90,91,hookah bar
+91,92,lounge
+92,93,art gallery
+93,94,taco restaurant
+94,95,dollar store
+95,96,clothing store
+96,97,discount store
+97,98,discount supermarket
+98,99,school supply store
+99,100,tobacco shop
+100,101,toy store
+101,103,coffee store
+102,104,snack bar
+103,105,irish pub
+104,106,espresso bar
+105,107,night club
+106,108,thai restaurant
+107,109,fish  chips restaurant
+108,110,food manufacturer
+109,111,furniture store
+110,112,spanish restaurant
+111,113,southern restaurant us
+112,114,pretzel store
+113,115,photographer
+114,116,portrait studio
+115,117,wedding photographer
+116,118,sushi takeaway
+117,119,fish store
+118,120,cocktail bar
+119,121,delivery service
+120,122,pasta shop
+121,124,mobile caterer
+122,125,beer garden
+123,126,brewery
+124,127,brunch restaurant
+125,128,live music bar
+126,129,bikram yoga studio
+127,130,candy store
+128,131,bistro
+129,132,moroccan restaurant
+130,133,hot dog restaurant
+131,134,event venue
+132,135,cruise line company
+133,136,tour operator
+134,137,wedding venue
+135,138,food and drink
+136,139,down home cooking restaurant
+137,141,japanese restaurant
+138,142,japanese steakhouse
+139,143,caribbean restaurant
+140,144,cigar shop
+141,145,food products supplier
+142,146,adult entertainment club
+143,147,live music venue
+144,148,coffee roasters
+145,149,box lunch supplier
+146,150,catering
+147,151,professional services
+148,152,pool hall
+149,153,food and beverage consultant
+150,154,lottery retailer
+151,155,food court
+152,156,european restaurant
+153,157,cheese shop
+154,158,lunch restaurant
+155,159,vegan restaurant
+156,160,dessert restaurant
+157,161,frozen yogurt shop
+158,162,barbecue restaurant
+159,163,piano bar
+160,164,soul food restaurant
+161,165,car wash
+162,166,polish restaurant
+163,167,photography service
+164,168,photography studio
+165,169,warehouse
+166,170,food
+167,171,burrito restaurant
+168,172,wedding service
+169,173,gay bar
+170,174,gay  lesbian organization
+171,175,organic restaurant
+172,176,haitian restaurant
+173,177,painting studio
+174,178,art handcraft
+175,179,art studio
+176,180,class
+177,181,vietnamese restaurant
+178,182,donut shop
+179,184,bed  breakfast
+180,185,hotel
+181,186,vegetarian restaurant
+182,187,gyro restaurant
+183,188,salvadoran restaurant
+184,189,panasian restaurant
+185,190,seafood wholesaler
+186,191,gourmet grocery store
+187,192,wholesale grocer
+188,193,commercial photographer
+189,194,aerial photographer
+190,195,model portfolio studio
+191,196,public bathroom
+192,197,jamaican restaurant
+193,198,bagel shop
+194,199,tapas bar
+195,200,texmex restaurant
+196,201,club
+197,202,brazilian pastelaria
+198,203,grocery delivery service
+199,204,market
+200,205,courier service
+201,206,performing arts group
+202,207,butcher shop
+203,208,inn
+204,209,beer hall
+205,210,cider bar
+206,211,comedy club
+207,212,dart bar
+208,213,karaoke bar
+209,214,pub
+210,215,dog walker
+211,216,dog trainer
+212,217,pet sitter
+213,218,store
+214,219,entertainment agency
+215,220,marketing agency
+216,221,stage lighting equipment supplier
+217,222,theater production
+218,223,tea store
+219,224,cheesesteak restaurant
+220,225,hoagie restaurant
+221,226,drug store
+222,227,board game club
+223,228,hot dog stand
+224,229,video production service
+225,230,banquet hall
+226,231,falafel restaurant
+227,232,middle eastern restaurant
+228,233,weight loss service
+229,234,honduran restaurant
+230,235,karaoke
+231,236,venezuelan restaurant
+232,237,antique store
+233,238,costume jewelry shop
+234,239,interior designer
+235,240,nonprofit organization
+236,242,mexican grocery store
+237,243,coffee wholesaler
+238,244,jazz club
+239,245,tapas restaurant
+240,246,korean restaurant
+241,247,soup shop
+242,248,internet cafe
+243,249,aa shop
+244,250,vitamin  supplements store
+245,251,canoe  kayak rental service
+246,252,recreational vehicle rental agency
+247,253,variety store
+248,254,fashion accessories store
+249,255,food producer
+250,256,fitness center
+251,257,nutritionist
+252,258,craft store
+253,259,home goods store
+254,260,kitchen supply store
+255,261,party store
+256,262,dominican restaurant
+257,263,marina
+258,264,party equipment rental service
+259,265,equipment rental agency
+260,266,event planner
+261,267,wedding planner
+262,268,photography class
+263,269,childrens party service
+264,270,georgian restaurant
+265,271,russian restaurant
+266,272,uzbeki restaurant
+267,273,nicaraguan restaurant
+268,274,wedding store
+269,275,housing development
+270,276,southern italian restaurant
+271,277,glutenfree restaurant
+272,278,greek restaurant
+273,279,lebanese restaurant
+274,280,bridal shop
+275,281,invitation printing service
+276,282,northern italian restaurant
+277,283,consultant
+278,284,irish restaurant
+279,285,german restaurant
+280,286,belgian restaurant
+281,287,business center
+282,288,coffee stand
+283,289,creole restaurant
+284,290,restaurant or cafe
+285,291,food store
+286,292,brewpub
+287,293,internet service provider
+288,294,diner
+289,295,turkish restaurant
+290,296,art cafe
+291,297,game store
+292,298,brazilian restaurant
+293,299,pakistani restaurant
+294,301,afghani restaurant
+295,302,beauty supply store
+296,303,pet supply store
+297,304,catering food and drink supplier
+298,305,meat packer
+299,306,meat processor
+300,307,meat products
+301,308,video editing service
+302,309,auto repair shop
+303,310,truck stop
+304,311,hair salon
+305,312,beer distributor
+306,313,nail salon
+307,314,organic shop
+308,315,permanent makeup clinic
+309,316,tattoo removal service
+310,317,tattoo shop
+311,318,waxing hair removal service
+312,319,cosmetics store
+313,320,propane supplier
+314,321,motel
+315,322,hardware store
+316,323,resort hotel
+317,324,pool billard club
+318,325,greeting card shop
+319,326,perfume store
+320,327,stationery store
+321,328,lodge
+322,329,fireworks store
+323,330,novelty store
+324,331,cannabis store
+325,332,herb shop
+326,333,herbalist
+327,335,smart shop
+328,336,wholesaler
+329,337,frozen dessert supplier
+330,338,gas company
+331,339,distribution service
+332,340,natural goods store
+333,341,winemaking supply store
+334,342,salsa classes
+335,343,fireplace store
+336,344,amusement center
+337,345,bowling alley
+338,346,corporate entertainment service
+339,347,laser tag center
+340,348,video arcade
+341,349,beverage distributor
+342,350,poster store
+343,351,dance club
+344,352,gas installation service
+345,353,grill
+346,354,gasfitter
+347,355,travellers lodge
+348,356,oil change service
+349,357,brewing supply store
+350,358,food service
+351,359,pharmacy
+352,360,medical supply store
+353,361,culinary school
+354,362,hawaiian restaurant
+355,363,chilean restaurant
+356,364,beauty salon
+357,365,day spa
+358,366,spa
+359,367,dentist
+360,368,dermatologist
+361,369,jewelry buyer
+362,370,spa and health club
+363,371,womens clothing store
+364,372,chauffeur service
+365,373,lodging
+366,374,spice store
+367,375,indian grocery store
+368,376,small plates restaurant
+369,377,bait shop
+370,378,balloon store
+371,379,banner store
+372,380,costume store
+373,381,fried chicken takeaway
+374,382,water utility company
+375,383,candle store
+376,384,electronic parts supplier
+377,385,electronics store
+378,386,incense supplier
+379,387,vaporizer store
+380,388,virtual office rental
+381,389,grill store
+382,390,cabinet maker
+383,391,gas logs supplier
+384,392,crab house
+385,393,farmers market
+386,394,organic food store
+387,395,construction company
+388,396,general contractor
+389,397,landscape designer
+390,398,sunroom contractor
+391,399,yoga studio
+392,400,corporate office
+393,401,noodle shop
+394,402,cake decorating equipment shop
+395,403,baking supply store
+396,404,fishing store
+397,405,dance school
+398,406,general store
+399,407,airline ticket agency
+400,408,shipping service
+401,409,crperie
+402,410,pet adoption service
+403,411,fishing charter
+404,412,hookah store
+405,413,gym
+406,414,gymnastics center
+407,415,parkour spot
+408,416,rock climbing gym
+409,417,bicycle rental service
+410,418,beach entertainment shop
+411,419,beach volleyball court
+412,420,sports equipment rental service
+413,421,surf shop
+414,422,southeast asian restaurant
+415,423,donations center
+416,424,consignment shop
+417,425,thrift store
+418,426,dj service
+419,427,argentinian restaurant
+420,428,bicycle shop
+421,429,british restaurant
+422,430,vegetarian cafe and deli
+423,431,motorcycle parts store
+424,432,motorcycle shop
+425,433,indoor playground
+426,434,continental restaurant
+427,435,oyster bar restaurant
+428,436,raw food restaurant
+429,437,african restaurant
+430,438,oriental goods store
+431,439,outdoor furniture store
+432,440,bar stool supplier
+433,441,fireplace manufacturer
+434,442,furniture accessories supplier
+435,443,furniture maker
+436,444,furniture manufacturer
+437,445,kitchen remodeler
+438,446,market operator
+439,447,ballroom dance instructor
+440,448,physical fitness program
+441,449,samba school
+442,450,bbq area
+443,451,dive shop
+444,452,scuba instructor
+445,453,scuba tour agency
+446,454,church
+447,455,after school program
+448,456,anglican church
+449,457,episcopal church
+450,458,kindergarten
+451,459,preschool
+452,460,summer camp
+453,461,collectibles store
+454,462,sports memorabilia store
+455,464,diving center
+456,465,doctor
+457,466,meat dish restaurant
+458,467,dog cafe
+459,469,wellness center
+460,470,boat tour agency
+461,471,sporting goods store
+462,472,balloon artist
+463,473,confectionery wholesaler
+464,474,sake brewery
+465,475,restaurant supply store
+466,476,garden
+467,477,coffee machine supplier
+468,478,popcorn store
+469,479,chicken shop
+470,480,indian takeaway
+471,481,gastropub
+472,482,marine supply store
+473,483,outdoor sports store
+474,484,produce market
+475,485,food delivery
+476,486,party planner
+477,487,air compressor supplier
+478,488,air compressor repair service
+479,489,satellite communication service
+480,490,fruit and vegetable store
+481,491,methodist church
+482,492,aromatherapy supply store
+483,493,honey farm
+484,494,sweets and dessert buffet
+485,495,helium gas supplier
+486,496,pancake restaurant
+487,497,traditional american restaurant
+488,498,acupuncture clinic
+489,499,health consultant
+490,500,massage therapist
+491,501,pain management physician
+492,502,skin care clinic
+493,503,goldfish store
+494,504,sports club
+495,505,boat storage facility
+496,506,distillery
+497,507,hunting and fishing store
+498,508,archery range
+499,509,archery store
+500,510,hunting store
+501,511,fruits wholesaler
+502,512,music school
+503,513,recording studio
+504,514,ethnic restaurant
+505,515,soup restaurant
+506,516,trucking company
+507,517,wedding buffet
+508,519,fiberglass supplier
+509,520,fresh food market
+510,521,canoe  kayak tour agency
+511,522,dance hall
+512,523,concert hall
+513,524,produce wholesaler
+514,525,flower delivery
+515,526,flower designer
+516,527,rare book store
+517,528,french steakhouse restaurant
+518,529,office equipment rental service
+519,530,vending machine supplier
+520,531,yoga instructor
+521,532,yoga retreat center
+522,533,handicrafts wholesaler
+523,534,fishing pier
+524,535,farm
+525,536,aquarium shop
+526,537,exporter
+527,538,community center
+528,539,gift wrap store
+529,540,confectionery
+530,541,dim sum restaurant
+531,542,book store
+532,543,recreation center
+533,545,kebab shop
+534,547,cooking class
+535,548,bingo hall
+536,549,southwestern restaurant us
+537,550,wine cellar
+538,551,wine club
+539,552,pet friendly accommodation
+540,553,wifi spot
+541,554,african goods store
+542,555,art school
+543,556,playground
+544,557,pottery store
+545,558,bicycle repair shop
+546,559,glass shop
+547,560,sundae restaurant
+548,561,seafood farm
+549,562,indonesian restaurant
+550,563,japanese delicatessen
+551,564,hot pot restaurant
+552,565,drivein movie theater
+553,566,seafood
+554,567,egg supplier
+555,568,tiki bar
+556,569,fondue restaurant
+557,570,orchard
+558,571,karaoke equipment rental service
+559,572,movie studio
+560,573,pie shop
+561,574,apartment building
+562,575,pilates studio
+563,576,ballroom
+564,577,function room facility
+565,578,beach pavillion
+566,579,canoe and kayak club
+567,580,tack shop
+568,581,helicopter tour agency
+569,582,vintage clothing store
+570,583,alternative medicine practitioner
+571,584,holistic medicine practitioner
+572,585,ice supplier
+573,586,souvenir store
+574,587,airbrushing service
+575,588,boot camp
+576,589,weightlifting area
+577,591,halal restaurant
+578,592,golf course
+579,593,country club
+580,594,musical club
+581,595,social club
+582,596,israeli restaurant
+583,597,business to business service
+584,598,pipe supplier
+585,599,scale supplier
+586,601,karate school
+587,602,medical clinic
+588,603,russian grocery store
+589,604,dried seafood store
+590,605,frozen food store
+591,606,billiards supply store
+592,607,dart supply store
+593,608,cheese manufacturer
+594,609,izakaya restaurant
+595,610,fastener supplier
+596,611,swimming pool supply store
+597,612,water softening equipment supplier
+598,613,upholstery shop
+599,614,mattress store
+600,615,bed shop
+601,616,bedding store
+602,617,bedroom furniture store
+603,618,futon store
+604,619,linens store
+605,620,boat rental service
+606,621,aviation consultant
+607,622,alternative fuel station
+608,623,food and beverage exporter
+609,624,meditation center
+610,625,building materials supplier
+611,626,ceiling supplier
+612,627,concrete metal framework supplier
+613,628,dry wall supply store
+614,629,insulation materials store
+615,630,lumber store
+616,631,plywood supplier
+617,632,tool store
+618,633,wildlife refuge
+619,634,golf course builder
+620,635,swimming pool
+621,636,tea manufacturer
+622,637,spices wholesalers
+623,638,meat wholesaler
+624,639,laotian restaurant
+625,640,po boys restaurant
+626,641,fishing pond
+627,642,movie theater
+628,643,arts organization
+629,644,conference center
+630,645,wedding chapel
+631,646,dairy farm
+632,647,home audio store
+633,648,electronics repair shop
+634,649,home theater store
+635,650,stereo repair service
+636,651,childrens amusement center
+637,652,school
+638,653,golf club
+639,654,post office
+640,655,wholesale market
+641,656,fence supply store
+642,657,pvc industry
+643,658,security system supplier
+644,659,steel distributor
+645,660,wood supplier
+646,661,home automation company
+647,662,audio visual consultant
+648,663,business networking company
+649,664,lighting consultant
+650,665,lighting contractor
+651,666,security system installer
+652,667,telecommunications contractor
+653,668,video conferencing service
+654,669,nature preserve
+655,670,hiking area
+656,671,learning center
+657,672,museum
+658,673,car stereo store
+659,674,auto accessories wholesaler
+660,675,auto electrical service
+661,676,car accessories store
+662,677,car alarm supplier
+663,679,truck accessories store
+664,680,building materials store
+665,681,roofing supply store
+666,682,appliance store
+667,683,appliance parts supplier
+668,684,appliances customer service
+669,685,washer  dryer store
+670,686,music
+671,687,christian book store
+672,688,day care center
+673,689,electric vehicle charging station
+674,690,bank
+675,691,nut store
+676,692,house cleaning service
+677,693,carpet cleaning service
+678,694,commercial cleaning service
+679,695,janitorial service
+680,696,painting
+681,697,pressure washing service
+682,698,professional organizer
+683,699,eclectic restaurant
+684,700,stage
+685,702,chinese takeaway
+686,703,greenhouse
+687,704,livestock breeder
+688,705,graphic designer
+689,706,livestock producer
+690,707,romanian restaurant
+691,708,hungarian restaurant
+692,709,basketball court
+693,711,mexican goods store
+694,712,biryani restaurant
+695,713,passport photo processor
+696,714,photo lab
+697,715,photo shop
+698,716,dry cleaner
+699,717,travel clinic
+700,718,painting lessons
+701,719,audio visual equipment supplier
+702,720,home cinema installation
+703,721,landscape lighting designer
+704,722,chinese bakery
+705,723,roofing contractor
+706,724,solar energy equipment supplier
+707,725,religious goods store
+708,726,patio enclosure supplier
+709,727,home improvement store
+710,728,kitchen furniture store
+711,729,lighting store
+712,730,paving materials supplier
+713,731,screen repair service
+714,732,screen store
+715,733,window installation service
+716,734,convention center
+717,735,meeting planning service
+718,736,education center
+719,737,agricultural production
+720,740,furniture rental service
+721,741,appliance rental service
+722,742,childrens furniture store
+723,743,baby store
+724,744,internet marketing service
+725,745,gps supplier
+726,746,yacht club
+727,747,fusion restaurant
+728,749,television repair service
+729,750,filipino restaurant
+730,751,park
+731,753,churreria
+732,754,cabinet store
+733,755,countertop store
+734,757,cabaret club
+735,758,golf driving range
+736,759,golf instructor
+737,760,public golf course
+738,761,bangladeshi restaurant
+739,762,australian restaurant
+740,763,charcuterie
+741,764,chinese tea house
+742,767,chocolate artisan
+743,768,chocolate factory
+744,769,corporate gift supplier
+745,770,authentic japanese restaurant
+746,771,teppanyaki restaurant
+747,773,soccer field
+748,774,soccer club
+749,775,fruit and vegetable processing
+750,776,japanese cheap sweets shop
+751,777,paving contractor
+752,778,contemporary louisiana restaurant
+753,780,poke bar
+754,781,floridian restaurant
+755,782,entertainment
+756,784,singaporean restaurant
+757,785,italian grocery store
+758,786,shoe repair shop
+759,787,boot repair shop
+760,788,diabetes equipment supplier
+761,789,leather cleaning service
+762,790,leather repair service
+763,791,orthopedic shoe store
+764,792,orthotics  prosthetics service
+765,793,shoe shining service
+766,794,shoe store
+767,795,fingerprinting service
+768,796,importer
+769,797,glass  mirror shop
+770,799,wicker store
+771,800,guatemalan restaurant
+772,801,ethiopian restaurant
+773,802,makeup artist
+774,803,childrens clothing store
+775,804,kiosk
+776,806,pet store
+777,807,pet groomer
+778,808,uruguayan restaurant
+779,809,canadian restaurant
+780,810,coworking space
+781,811,shipping and mailing service
+782,812,pizza takeaway
+783,813,meal delivery
+784,814,sports nutrition store
+785,815,selfcatering accommodation
+786,816,cold storage facility
+787,817,office space rental agency
+788,818,californian restaurant
+789,819,cruise agency
+790,820,boat accessories supplier
+791,821,boat dealer
+792,822,boat ramp
+793,823,boat repair shop
+794,824,boating instructor
+795,825,english restaurant
+796,826,porridge restaurant
+797,830,jewelry store
+798,831,bowling club
+799,833,laundromat
+800,834,angler fish restaurant
+801,835,mongolian barbecue restaurant
+802,836,sightseeing tour agency
+803,837,aircraft rental service
+804,838,parasailing ride service
+805,839,tourist information center
+806,840,amusement park
+807,842,ice skating rink
+808,843,swedish restaurant
+809,844,fish processing
+810,845,blues club
+811,847,notary public
+812,848,translator
+813,849,historical landmark
+814,850,rice restaurant
+815,851,hobby store
+816,853,stadium
+817,854,plaza
+818,855,seminary
+819,856,scooter rental service
+820,857,fruit parlor
+821,858,panlatin restaurant
+822,859,scandinavian restaurant
+823,860,travel agency
+824,861,apartment rental agency
+825,862,bus tour agency
+826,863,vacation home rental agency
+827,864,tennis club
+828,865,golf shop
+829,866,indoor golf course
+830,867,fish and chips takeaway
+831,868,adult entertainment store
+832,869,lingerie store
+833,870,greengrocer
+834,871,transportation service
+835,873,cantonese restaurant
+836,874,botanical garden
+837,875,pain control clinic
+838,876,childrens book store
+839,877,tamale shop
+840,878,dance restaurant
+841,879,stand bar
+842,880,shawarma restaurant
+843,881,animal park
+844,882,scenic spot
+845,883,punjabi restaurant
+846,884,chophouse restaurant
+847,886,japanese grocery store
+848,887,korean grocery store
+849,888,bocce ball court
+850,889,exhibit
+851,890,massage spa
+852,891,swim club
+853,892,tennis court
+854,893,pier
+855,894,new england restaurant
+856,895,barber shop
+857,896,boat cover supplier
+858,897,sicilian restaurant
+859,898,portuguese restaurant
+860,899,adventure sports
+861,900,aerial sports center
+862,901,horseback riding service
+863,902,brasserie
+864,903,taiwanese restaurant
+865,904,olive oil bottling company
+866,905,event management company
+867,906,mandarin restaurant
+868,907,rest stop
+869,908,art museum
+870,909,historical society
+871,910,history museum
+872,912,technology museum
+873,913,hat shop
+874,914,food bank
+875,915,social services organization
+876,916,video game store
+877,917,embroidery service
+878,918,patisserie
+879,919,plumber
+880,920,dress store
+881,921,sportswear store
+882,922,tshirt store
+883,923,western apparel store
+884,924,belt shop
+885,925,boot store
+886,926,jeans shop
+887,927,leather goods store
+888,928,work clothes store
+889,929,artist
+890,930,art center
+891,931,chinaware store
+892,932,cutlery store
+893,933,barbecue area
+894,934,neapolitan restaurant
+895,935,yakitori restaurant
+896,936,jewish restaurant
+897,937,chocolate cafe
+898,938,assemblies of god church
+899,939,christian church
+900,940,baptist church
+901,941,religious organization
+902,942,wellness program
+903,943,copy shop
+904,944,mailbox rental service
+905,945,packaging supply store
+906,946,print shop
+907,947,promotional products supplier
+908,948,miniature golf course
+909,949,pentecostal church
+910,950,baseball field
+911,951,sports complex
+912,952,youth organization
+913,953,disco club
+914,954,casino
+915,955,frituur
+916,956,university library
+917,957,asian household goods store
+918,958,udon noodle restaurant
+919,959,walkin clinic
+920,960,egyptian restaurant
+921,961,herbal medicine store
+922,963,used book store
+923,964,department store
+924,965,eye care center
+925,966,optometrist
+926,967,chiropractor
+927,968,family practice physician
+928,969,naturopathic practitioner
+929,970,physical therapy clinic
+930,972,sports medicine physician
+931,973,physical therapist
+932,974,rehabilitation center
+933,975,cat boarding service
+934,977,proctologist
+935,978,gastroenterologist
+936,979,surgeon
+937,980,glass blower
+938,981,boat builders
+939,982,plant nursery
+940,983,tanning salon
+941,984,roller skating rink
+942,986,baseball
+943,987,childrens party buffet
+944,988,tuscan restaurant
+945,989,rock shop
+946,990,horse boarding stable
+947,991,horse trainer
+948,992,pony ride service
+949,993,antique furniture restoration service
+950,994,quilt shop
+951,995,fabric store
+952,996,sewing shop
+953,997,organic drug store
+954,998,fashion designer
+955,999,helicopter charter
+956,1000,christmas store
+957,1001,aquaculture farm
+958,1002,aquarium
+959,1003,fish farm
+960,1004,tropical fish store
+961,1005,website designer
+962,1006,aquatic centre
+963,1007,sleep clinic
+964,1008,sewing machine repair service
+965,1009,video conferencing equipment supplier
+966,1011,horse riding school
+967,1012,food machinery supplier
+968,1013,food manufacturing supply
+969,1015,wholesale food store
+970,1016,repair service
+971,1017,sewing machine store
+972,1018,costa rican restaurant
+973,1019,bicycle club
+974,1020,equestrian facility
+975,1021,pond fish supplier
+976,1022,horse riding
+977,1023,stable
+978,1024,warehouse club
+979,1025,furniture wholesaler
+980,1026,tire shop
+981,1027,oyster supplier
+982,1028,vegetable wholesaler
+983,1029,vacuum cleaner repair shop
+984,1030,vacuum cleaner store
+985,1031,nepalese restaurant
+986,1032,horse rental service
+987,1033,record store
+988,1034,eyebrow bar
+989,1035,eyelash salon
+990,1036,hairdresser
+991,1037,hearing aid store
+992,1038,tofu restaurant
+993,1039,native american goods store
+994,1040,silversmith
+995,1041,greek orthodox church
+996,1042,metaphysical supply store
+997,1044,halfway house
+998,1045,addiction treatment center
+999,1046,alcoholism treatment program
+1000,1047,mental health service
+1001,1048,rubber products supplier
+1002,1049,hose supplier
+1003,1050,antique furniture store
+1004,1052,italian
+1005,1055,coffee  tea
+1006,1057,pet
+1007,1058,pet adoption
+1008,1060,american new
+1009,1061,american traditional
+1010,1062,nightlife
+1011,1066,beer bar
+1012,1067,automotive
+1013,1069,sandwich
+1014,1071,grocery
+1015,1072,couriers  delivery services
+1016,1073,local services
+1017,1074,food delivery services
+1018,1075,organic stores
+1019,1076,specialty food
+1020,1077,health markets
+1021,1078,japanese
+1022,1079,sushi bars
+1023,1080,fast food
+1024,1081,pizza
+1025,1082,chicken wings
+1026,1083,chinese
+1027,1084,thai
+1028,1085,tapassmall plates
+1029,1086,drugstore
+1030,1087,health  medical
+1031,1088,shopping
+1032,1089,filipino
+1033,1090,mexican
+1034,1091,latin american
+1035,1092,asian fusion
+1036,1093,burger
+1037,1094,dessert
+1038,1096,chocolatiers  shops
+1039,1097,ethnic food
+1040,1098,middle eastern
+1041,1100,coffee roasteries
+1042,1101,home  garden
+1043,1102,kitchen  bath
+1044,1104,event planning  services
+1045,1105,fitness  instruction
+1046,1106,beauty  spas
+1047,1107,cosmetics  beauty supply
+1048,1108,active life
+1049,1109,yoga
+1050,1110,vitamins  supplements
+1051,1111,caribbean
+1052,1112,food trucks
+1053,1113,breakfast  brunch
+1054,1114,indian
+1055,1115,cajuncreole
+1056,1116,noodle
+1057,1117,barbeque
+1058,1118,salad
+1059,1119,bagel
+1060,1120,cheesesteaks
+1061,1121,african
+1062,1122,kebab
+1063,1123,mediterranean
+1064,1124,lebanese
+1065,1125,greek
+1066,1126,juice bars  smoothies
+1067,1127,ice cream  frozen yogurt
+1068,1128,creperies
+1069,1129,gelato
+1070,1130,comfort food
+1071,1131,wine bars
+1072,1132,food stands
+1073,1134,flowers  gifts
+1074,1137,korean
+1075,1139,vietnamese
+1076,1140,french
+1077,1141,cupcake
+1078,1143,ukrainian
+1079,1144,soul food
+1080,1145,southern
+1081,1146,soup
+1082,1147,taco
+1083,1148,meat shops
+1084,1149,fruits  veggies
+1085,1150,beer
+1086,1151,wine  spirits
+1087,1152,canadian new
+1088,1153,steakhouse
+1089,1155,texmex
+1090,1156,pakistani
+1091,1157,sicilian
+1092,1159,themed cafes
+1093,1162,fashion
+1094,1163,pet sitting
+1095,1164,accessory
+1096,1166,pet services
+1097,1168,vegetarian
+1098,1169,fish  chips
+1099,1170,teppanyaki
+1100,1171,szechuan
+1101,1173,falafel
+1102,1174,halal
+1103,1177,festival
+1104,1178,venues  event spaces
+1105,1179,wine tasting room
+1106,1180,shopping centers
+1107,1181,wrap
+1108,1183,oriental
+1109,1184,laotian
+1110,1186,glutenfree
+1111,1187,acai bowls
+1112,1188,hawaiian
+1113,1189,donut
+1114,1190,boat charters
+1115,1191,arabic
+1116,1192,vegan
+1117,1193,pretzel
+1118,1194,jazz  blues
+1119,1195,music venues
+1120,1196,car stereo installation
+1121,1197,auto detailing
+1122,1198,trailer repair
+1123,1199,parking
+1124,1200,self storage
+1125,1201,rv repair
+1126,1202,smog check stations
+1127,1204,oil change stations
+1128,1205,counseling  mental health
+1129,1206,transmission repair
+1130,1207,body shops
+1131,1208,windshield installation  repair
+1132,1209,auto glass services
+1133,1210,tire
+1134,1211,roadside assistance
+1135,1212,battery stores
+1136,1213,fondue
+1137,1214,poutineries
+1138,1215,custom cakes
+1139,1216,buffet
+1140,1218,day spas
+1141,1219,hotels  travel
+1142,1220,skin care
+1143,1222,irish
+1144,1223,gay bars
+1145,1224,service stations
+1146,1226,cantonese
+1147,1227,tea rooms
+1148,1228,imported food
+1149,1229,moroccan
+1150,1230,wholesale stores
+1151,1233,liveraw food
+1152,1234,food tours
+1153,1235,tour
+1154,1236,dive bars
+1155,1238,hot dogs
+1156,1239,bubble tea
+1157,1240,shaved ice
+1158,1241,pan asian
+1159,1242,turkish
+1160,1243,butcher
+1161,1247,electronics
+1162,1248,wedding planning
+1163,1249,donairs
+1164,1250,street vendors
+1165,1251,arcade
+1166,1252,party  event planning
+1167,1253,indoor playcentre
+1168,1254,kids activities
+1169,1255,patisseriecake shop
+1170,1256,delicatessen
+1171,1257,whiskey bars
+1172,1258,eatertainment
+1173,1260,bowling
+1174,1261,poke
+1175,1263,macarons
+1176,1264,party supplies
+1177,1265,british
+1178,1266,book
+1179,1267,mag
+1180,1268,music  video
+1181,1269,bookstore
+1182,1271,walking tours
+1183,1273,attraction farms
+1184,1274,pick your own farms
+1185,1276,local flavor
+1186,1277,barber
+1187,1278,cambodian
+1188,1280,peruvian
+1189,1281,spanish
+1190,1282,cuban
+1191,1283,massage
+1192,1284,massage therapy
+1193,1285,perfume
+1194,1286,personal shopping
+1195,1287,customized merchandise
+1196,1288,cultural center
+1197,1289,herbal shops
+1198,1290,mover
+1199,1291,home cleaning
+1200,1293,junk removal  hauling
+1201,1294,home services
+1202,1296,hot pot
+1203,1297,puerto rican
+1204,1298,dominican
+1205,1299,mini golf
+1206,1300,batting cages
+1207,1301,german
+1208,1302,russian
+1209,1303,mobile phones
+1210,1304,cards  stationery
+1211,1305,arts  crafts
+1212,1306,waffle
+1213,1307,new mexican cuisine
+1214,1308,kosher
+1215,1309,brewing supplies
+1216,1310,popup shops
+1217,1311,outlet stores
+1218,1312,transportation
+1219,1313,party bus rentals
+1220,1314,wine tours
+1221,1315,limo
+1222,1316,international grocery
+1223,1317,ethnic grocery
+1224,1318,mens clothing
+1225,1319,taiwanese
+1226,1321,singaporean
+1227,1322,bridal
+1228,1323,beverage store
+1229,1324,salvadoran
+1230,1325,propane
+1231,1326,persianiranian
+1232,1327,dim sum
+1233,1328,smokehouse
+1234,1329,afghan
+1235,1330,parent cafes
+1236,1331,fishing
+1237,1332,hunting  fishing supplies
+1238,1334,photography stores  services
+1239,1335,tiki bars
+1240,1336,basque
+1241,1337,home decor
+1242,1338,ramen
+1243,1339,herbs  spices
+1244,1340,country dance halls
+1245,1342,musical instruments  teachers
+1246,1343,nurseries  gardening
+1247,1344,maternity wear
+1248,1345,used
+1249,1346,vintage  consignment
+1250,1348,jewelry
+1251,1349,indonesian
+1252,1350,empanadas
+1253,1351,public services  government
+1254,1352,security systems
+1255,1353,pawn shops
+1256,1354,baby gear  furniture
+1257,1355,personal chefs
+1258,1356,popcorn shops
+1259,1357,recording  rehearsal studios
+1260,1358,musician
+1261,1359,vinyl records
+1262,1360,brazilian
+1263,1361,it services  computer repair
+1264,1362,mobile phone repair
+1265,1363,popup restaurants
+1266,1365,golf
+1267,1367,community servicenonprofit
+1268,1368,doityourself food
+1269,1369,pancake
+1270,1372,hobby shops
+1271,1373,videos  video game rental
+1272,1374,cinema
+1273,1375,colombian
+1274,1376,australian
+1275,1377,resort
+1276,1378,lahmacun
+1277,1379,bartender
+1278,1380,csa
+1279,1381,animal shelters
+1280,1382,education
+1281,1383,olive oil
+1282,1384,antique
+1283,1385,hair removal
+1284,1386,waxing
+1285,1388,adult education
+1286,1389,yelp events
+1287,1390,specialty schools
+1288,1391,cooking classes
+1289,1392,cooking schools
+1290,1393,art galleries
+1291,1394,paint  sip
+1292,1395,modern european
+1293,1396,water purification services
+1294,1397,water stores
+1295,1398,champagne bars
+1296,1399,weight loss centers
+1297,1400,medical centers
+1298,1401,home health care
+1299,1402,pumpkin patches
+1300,1404,eyebrow services
+1301,1405,mens hair salons
+1302,1406,real estate
+1303,1407,shared office spaces
+1304,1408,golf lessons
+1305,1409,boating
+1306,1410,tanning
+1307,1412,spray tanning
+1308,1413,kitchen supplies
+1309,1414,appliance
+1310,1415,ethiopian
+1311,1416,himalayannepalese
+1312,1417,coffeeshops
+1313,1418,venezuelan
+1314,1421,shaved snow
+1315,1422,mongolian
+1316,1423,public markets
+1317,1424,ticket sales
+1318,1425,cideries
+1319,1426,urgent care
+1320,1428,haitian
+1321,1429,lan centers
+1322,1430,malaysian
+1323,1431,strip clubs
+1324,1432,landmarks  historical buildings
+1325,1433,boat tours
+1326,1436,race tracks
+1327,1437,beer tours
+1328,1438,bar crawl
+1329,1439,pool  billiards
+1330,1440,international
+1331,1441,scandinavian
+1332,1442,team building activities
+1333,1443,souvenir shops
+1334,1444,dj
+1335,1445,marketing
+1336,1446,graphic design
+1337,1447,advertising
+1338,1448,heating  air conditioninghvac
+1339,1449,argentine
+1340,1451,check cashingpayday loans
+1341,1452,financial services
+1342,1453,restaurant supplies
+1343,1454,jails  prisons
+1344,1455,dry cleaning  laundry
+1345,1456,laundry services
+1346,1457,portuguese
+1347,1458,iberian
+1348,1459,plumbing
+1349,1460,water heater installationrepair
+1350,1461,beach
+1351,1462,fuzhou
+1352,1463,raftingkayaking
+1353,1464,bike rentals
+1354,1465,hypnosishypnotherapy
+1355,1466,syrian
+1356,1467,chinese martial arts
+1357,1468,martial arts
+1358,1469,hostel
+1359,1471,bespoke clothing
+1360,1472,adult
+1361,1473,billing services
+1362,1474,polish
+1363,1476,belgian
+1364,1477,vape shops
+1365,1478,cigar bars
+1366,1480,honey
+1367,1481,wildlife control
+1368,1482,pest control
+1369,1483,osteopath
+1370,1484,hospital
+1371,1486,eyewear  opticians
+1372,1487,honduran
+1373,1488,tabletop games
+1374,1489,car dealers
+1375,1490,auto customization
+1376,1491,auto parts  supplies
+1377,1492,mailbox centers
+1378,1493,shipping centers
+1379,1494,notary
+1380,1497,kombucha
+1381,1498,tennis
+1382,1499,reflexology
+1383,1500,tasting classes
+1384,1501,cannabis clinics
+1385,1503,beach bars
+1386,1504,pet training
+1387,1505,bus tours
+1388,1506,knife sharpening
+1389,1507,health coach
+1390,1508,alternative medicine
+1391,1509,dietitian
+1392,1510,concierge medicine
+1393,1511,naturopathicholistic
+1394,1512,axe throwing
+1395,1513,izakaya
+1396,1515,bangladeshi
+1397,1516,dance studios
+1398,1517,cannabis dispensaries
+1399,1518,spiritual shop
+1400,1520,historical tours
+1401,1521,homeowner association
+1402,1522,computer
+1403,1523,tree services
+1404,1524,travel services
+1405,1526,vocational  technical school
+1406,1528,japanese curry
+1407,1529,cabaret
+1408,1531,commercial truck repair
+1409,1532,hong kong style cafe
+1410,1533,acupuncture
+1411,1534,trinidadian
+1412,1535,supernatural readings
+1413,1536,medical supplies
+1414,1537,magician
+1415,1539,art classes
+1416,1540,dog parks
+1417,1541,airport lounges
+1418,1542,burmese
+1419,1544,nicaraguan
+1420,1545,speakeasy
+1421,1549,reiki
+1422,1551,truck rental
+1423,1552,signmaking
+1424,1553,sardinian
+1425,1554,austrian
+1426,1555,packing services
+1427,1556,car share services
+1428,1557,office cleaning
+1429,1558,taxi
+1430,1559,egyptian
+1431,1560,swimming lessonsschools
+1432,1561,flea markets
+1433,1562,art supplies
+1434,1563,pet boarding
+1435,1564,water delivery
+1436,1565,trampoline parks
+1437,1566,party characters
+1438,1567,airport shuttles
+1439,1568,public transportation
+1440,1569,medical transportation
+1441,1572,fireplace services
+1442,1573,bike repairmaintenance
+1443,1574,mountain biking
+1444,1575,bike
+1445,1576,head shops
+1446,1577,barre classes
+1447,1580,coffee  tea supplies
+1448,1581,carpet cleaning
+1449,1582,personal injury law
+1450,1583,business law
+1451,1584,contract law
+1452,1586,lawyer
+1453,1587,employment law
+1454,1588,legal services
+1455,1589,divorce  family law
+1456,1590,general litigation
+1457,1591,shanghainese
+1458,1592,stadiums  arenas
+1459,1593,laser tag
+1460,1594,hat
+1461,1595,car rental
+1462,1596,amateur sports teams
+1463,1597,guest houses
+1464,1598,christmas trees
+1465,1599,hotel bar
+1466,1600,painter
+1467,1601,paddleboarding
+1468,1602,investing
+1469,1603,banks  credit unions
+1470,1604,auto loan providers
+1471,1605,child care  day care
+1472,1606,haunted houses
+1473,1607,armenian
+1474,1608,newspapers  magazines
+1475,1609,building supplies
+1476,1610,damage restoration
+1477,1611,hair loss centers
+1478,1612,car window tinting
+1479,1613,wig
+1480,1614,printing services

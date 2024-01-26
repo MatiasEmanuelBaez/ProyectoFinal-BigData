@@ -1,0 +1,412 @@
+id_ciudad;id_estado;ciudad
+0;12;Alachua
+1;12;Alford
+2;12;Altamonte Springs
+3;12;Altha
+4;12;Anna Maria
+5;12;Apalachicola
+6;12;Apopka
+7;12;Arcadia
+8;12;Archer
+9;12;Astatula
+10;12;Atlantic Beach
+11;12;Atlantis
+12;12;Auburndale
+13;12;Aventura
+14;12;Avon Park
+15;12;Bal Harbour
+16;12;Baldwin
+17;12;Bartow
+18;12;Bascom
+19;12;Bay Harbor Islands
+20;12;Bay Lake
+21;12;Bell
+22;12;Belle Glade
+23;12;Belle Isle
+24;12;Belleair
+25;12;Belleair Beach
+26;12;Belleair Bluffs
+27;12;Belleair Shore
+28;12;Belleview
+29;12;Beverly Beach
+30;12;Biscayne Park
+31;12;Blountstown
+32;12;Boca Raton
+33;12;Bonifay
+34;12;Bonita Springs
+35;12;Bowling Green
+36;12;Boynton Beach
+37;12;Bradenton
+38;12;Bradenton Beach
+39;12;Branford
+40;12;Briny Breezes
+41;12;Bristol
+42;12;Bronson
+43;12;Brooker
+44;12;Brooksville
+45;12;Bunnell
+46;12;Bushnell
+47;12;Callahan
+48;12;Callaway
+49;12;Campbellton
+50;12;Cape Canaveral
+51;12;Cape Coral
+52;12;Carrabelle
+53;12;Caryville
+54;12;Casselberry
+55;12;Cedar Key
+56;12;Center Hill
+57;12;Century
+58;12;Chattahoochee
+59;12;Chiefland
+60;12;Chipley
+61;12;Cinco Bayou
+62;12;Clearwater
+63;12;Clermont
+64;12;Clewiston
+65;12;Cloud Lake
+66;12;Cocoa
+67;12;Cocoa Beach
+68;12;Coconut Creek
+69;12;Coleman
+70;12;Cooper City
+71;12;Coral Gables
+72;12;Coral Springs
+73;12;Cottondale
+74;12;Crescent City
+75;12;Crestview
+76;12;Cross City
+77;12;Crystal River
+78;12;Cutler Bay
+79;12;Dade City
+80;12;Dania Beach
+81;12;Davenport
+82;12;Davie
+83;12;Daytona Beach
+84;12;Daytona Beach Shores
+85;12;DeBary
+86;12;Deerfield Beach
+87;12;DeFuniak Springs
+88;12;DeLand
+89;12;Delray Beach
+90;12;Deltona
+91;12;Destin
+92;12;Doral
+93;12;Dundee
+94;12;Dunedin
+95;12;Dunnellon
+96;12;Eagle Lake
+97;12;Eatonville
+98;12;Ebro
+99;12;Edgewater
+100;12;Edgewood
+101;12;El Portal
+102;12;Estero
+103;12;Esto
+104;12;Eustis
+105;12;Everglades City
+106;12;Fanning Springs
+107;12;Fellsmere
+108;12;Fernandina Beach
+109;12;Flagler Beach
+110;12;Florida City
+111;12;Fort Lauderdale
+112;12;Fort Meade
+113;12;Fort Myers
+114;12;Fort Myers Beach
+115;12;Fort Pierce
+116;12;Fort Walton Beach
+117;12;Fort White
+118;12;Freeport
+119;12;Frostproof
+120;12;Fruitland Park
+121;12;Gainesville
+122;12;Glen Ridge
+123;12;Glen St. Mary
+124;12;Golden Beach
+125;12;Golf
+126;12;Graceville
+127;12;Grand Ridge
+128;12;Grant-Valkaria
+129;12;Green Cove Springs
+130;12;Greenacres
+131;12;Greensboro
+132;12;Greenville
+133;12;Greenwood
+134;12;Gretna
+135;12;Groveland
+136;12;Gulf Breeze
+137;12;Gulf Stream
+138;12;Gulfport
+139;12;Haines City
+140;12;Hallandale Beach
+141;12;Hampton
+142;12;Havana
+143;12;Haverhill
+144;12;Hawthorne
+145;12;Hialeah
+146;12;Hialeah Gardens
+147;12;High Springs
+148;12;Highland Beach
+149;12;Highland Park
+150;12;Hillcrest Heights
+151;12;Hilliard
+152;12;Hillsboro Beach
+153;12;Holly Hill
+154;12;Hollywood
+155;12;Holmes Beach
+156;12;Homestead
+157;12;Horseshoe Beach
+158;12;Howey-in-the-Hills
+159;12;Hypoluxo
+160;12;Indialantic
+161;12;Indian Creek
+162;12;Indian Harbour Beach
+163;12;Indian River Shores
+164;12;Indian Rocks Beach
+165;12;Indian Shores
+166;12;Indiantown
+167;12;Inglis
+168;12;Interlachen
+169;12;Inverness
+170;12;Islamorada
+171;12;Jacksonville
+172;12;Jacksonville Beach
+173;12;Jacob City
+174;12;Jasper
+175;12;Jay
+176;12;Jennings
+177;12;Juno Beach
+178;12;Jupiter
+179;12;Jupiter Inlet Colony
+180;12;Jupiter Island
+181;12;Kenneth City
+182;12;Key Biscayne
+183;12;Key Colony Beach
+184;12;Key West
+185;12;Keystone Heights
+186;12;Kissimmee
+187;12;LaBelle
+188;12;LaCrosse
+189;12;Lady Lake
+190;12;Lake Alfred
+191;12;Lake Buena Vista
+192;12;Lake Butler
+193;12;Lake City
+194;12;Lake Clarke Shores
+195;12;Lake Hamilton
+196;12;Lake Helen
+197;12;Lake Mary
+198;12;Lake Park
+199;12;Lake Placid
+200;12;Lake Wales
+201;12;Lake Worth Beach
+202;12;Lakeland
+203;12;Lantana
+204;12;Largo
+205;12;Lauderdale Lakes
+206;12;Lauderdale-by-the-Sea
+207;12;Lauderhill
+208;12;Laurel Hill
+209;12;Lawtey
+210;12;Layton
+211;12;Lazy Lake
+212;12;Lee
+213;12;Leesburg
+214;12;Lighthouse Point
+215;12;Live Oak
+216;12;Longboat Key
+217;12;Longwood
+218;12;Loxahatchee Groves
+219;12;Lynn Haven
+220;12;Macclenny
+221;12;Madeira Beach
+222;12;Madison
+223;12;Maitland
+224;12;Malabar
+225;12;Malone
+226;12;Manalapan
+227;12;Mangonia Park
+228;12;Marathon
+229;12;Marco Island
+230;12;Margate
+231;12;Marianna
+232;12;Marineland
+233;12;Mary Esther
+234;12;Mascotte
+235;12;Mayo
+236;12;McIntosh
+237;12;Medley
+238;12;Melbourne
+239;12;Melbourne Beach
+240;12;Melbourne Village
+241;12;Mexico Beach
+242;12;Miami
+243;12;Miami Beach
+244;12;Miami Gardens
+245;12;Miami Lakes
+246;12;Miami Shores
+247;12;Miami Springs
+248;12;Micanopy
+249;12;Midway
+250;12;Milton
+251;12;Minneola
+252;12;Miramar
+253;12;Monticello
+254;12;Montverde
+255;12;Moore Haven
+256;12;Mount Dora
+257;12;Mulberry
+258;12;Naples
+259;12;Neptune Beach
+260;12;New Port Richey
+261;12;New Smyrna Beach
+262;12;Newberry
+263;12;Niceville
+264;12;Noma
+265;12;North Bay Village
+266;12;North Lauderdale
+267;12;North Miami
+268;12;North Miami Beach
+269;12;North Palm Beach
+270;12;North Port
+271;12;North Redington Beach
+272;12;Oak Hill
+273;12;Oakland
+274;12;Oakland Park
+275;12;Ocala
+276;12;Ocean Breeze
+277;12;Ocean Ridge
+278;12;Ocoee
+279;12;Okeechobee
+280;12;Oldsmar
+281;12;Opa-locka
+282;12;Orange City
+283;12;Orange Park
+284;12;Orchid
+285;12;Orlando
+286;12;Ormond Beach
+287;12;Otter Creek
+288;12;Oviedo
+289;12;Pahokee
+290;12;Palatka
+291;12;Palm Bay
+292;12;Palm Beach
+293;12;Palm Beach Gardens
+294;12;Palm Beach Shores
+295;12;Palm Coast
+296;12;Palm Shores
+297;12;Palm Springs
+298;12;Palmetto
+299;12;Palmetto Bay
+300;12;Panama City
+301;12;Panama City Beach
+302;12;Parker
+303;12;Parkland
+304;12;Paxton
+305;12;Pembroke Park
+306;12;Pembroke Pines
+307;12;Penney Farms
+308;12;Pensacola
+309;12;Perry
+310;12;Pierson
+311;12;Pinecrest
+312;12;Pinellas Park
+313;12;Plant City
+314;12;Plantation
+315;12;Polk City
+316;12;Pomona Park
+317;12;Pompano Beach
+318;12;Ponce de Leon
+319;12;Ponce Inlet
+320;12;Port Orange
+321;12;Port Richey
+322;12;Port St. Joe
+323;12;Port St. Lucie
+324;12;Punta Gorda
+325;12;Quincy
+326;12;Raiford
+327;12;Reddick
+328;12;Redington Beach
+329;12;Redington Shores
+330;12;Riviera Beach
+331;12;Rockledge
+332;12;Royal Palm Beach
+333;12;Safety Harbor
+334;12;San Antonio
+335;12;Sanford
+336;12;Sanibel
+337;12;Sarasota
+338;12;Satellite Beach
+339;12;Sea Ranch Lakes
+340;12;Sebastian
+341;12;Sebring
+342;12;Seminole
+343;12;Sewall's Point
+344;12;Shalimar
+345;12;Sneads
+346;12;Sopchoppy
+347;12;South Bay
+348;12;South Daytona
+349;12;South Miami
+350;12;South Palm Beach
+351;12;South Pasadena
+352;12;Southwest Ranches
+353;12;Springfield
+354;12;St. Augustine
+355;12;St. Augustine Beach
+356;12;St. Cloud
+357;12;St. Leo
+358;12;St. Lucie Village
+359;12;St. Marks
+360;12;St. Pete Beach
+361;12;St. Petersburg
+362;12;Starke
+363;12;Stuart
+364;12;Sunny Isles Beach
+365;12;Sunrise
+366;12;Surfside
+367;12;Sweetwater
+368;12;Tallahassee
+369;12;Tamarac
+370;12;Tampa
+371;12;Tarpon Springs
+372;12;Tavares
+373;12;Temple Terrace
+374;12;Tequesta
+375;12;Titusville
+376;12;Treasure Island
+377;12;Trenton
+378;12;Umatilla
+379;12;Valparaiso
+380;12;Venice
+381;12;Vernon
+382;12;Vero Beach
+383;12;Virginia Gardens
+384;12;Waldo
+385;12;Wauchula
+386;12;Wausau
+387;12;Webster
+388;12;Welaka
+389;12;Wellington
+390;12;Westlake
+391;12;West Melbourne
+392;12;West Miami
+393;12;West Palm Beach
+394;12;West Park
+395;12;Weston
+396;12;Westville
+397;12;Wewahitchka
+398;12;White Springs
+399;12;Wildwood
+400;12;Williston
+401;12;Wilton Manors
+402;12;Windermere
+403;12;Winter Garden
+404;12;Winter Haven
+405;12;Winter Park
+406;12;Winter Springs
+407;12;Worthington Springs
+408;12;Yankeetown
+409;12;Zephyrhills
+410;12;Zolfo Springs
