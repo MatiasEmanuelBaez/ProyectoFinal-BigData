@@ -91,7 +91,7 @@ Para la creación del dashboard, optamos por utilizar Tableau debido a sus funci
 
 <td> 
 
-[LINK DASHBOARD](https://public.tableau.com/views/proyectofinalhenry/DashReco?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)  👈👀
+[LINK DASHBOARD](https://public.tableau.com/app/profile/edith.cuellar/viz/proyectofinalhenry/Historia1)  👈👀
 </td>
 
 ### Modelo ML
