@@ -83,6 +83,29 @@ Es un esquema de copo de estrella, combina elementos de esquemas de estrella y c
 <img src="Imagenes/der.png" width="750" />
 </p>
 
+## 🏅 RESULTADOS
+
+### Dashboard
+
+Para la creación del dashboard, optamos por utilizar Tableau debido a sus funciones avanzadas y la capacidad de compartir y publicar fácilmente los resultados. En las diversas pestañas se presentan los KPIs previamente definidos para evaluar el desempeño de los restaurantes y seguir de cerca la evolución del mercado.
+
+<td> 
+
+[LINK DASHBOARD](https://public.tableau.com/views/proyectofinalhenry/DashReco?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)  👈👀
+</td>
+
+### Modelo ML
+
+Para el modelo de machine learning seleccionado por nuestro cliente, hemos optado por centrarnos en los nombres y categorías de los restaurantes, así como en su ubicación. La función principal de este modelo será proporcionar recomendaciones de cinco locales en la ciudad elegida, que se alineen con los antojos del usuario final. En una estrategia de marketing y mejora de ventas, nuestro cliente ha decidido destacar un restaurante perteneciente a su cadena en el primer lugar de cada lista de recomendación, siempre que haya uno presente en la ciudad seleccionada.
+En pro de la presentación, hemos trabajado con datos reducidos, enfocándonos exclusivamente en las localidades asociadas a las recomendaciones de inversión presentadas anteriormente al cliente.
+
+<td> 
+
+[LINK APP](https://grupo08henry-8erfy5vevg49h9rddzfxmu.streamlit.app/)  👈👀
+</td>
+
+
+
 ## 🛠️ EL EQUIPO
 
 <div style="text-align: center;">
